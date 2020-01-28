@@ -15,6 +15,8 @@ class Scraper
       course.description = post.css("p").text
       
     end
+    
+    
     biding.pry
   end 
     
